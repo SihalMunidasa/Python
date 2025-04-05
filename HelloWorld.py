@@ -1,4 +1,4 @@
 def greet():
     return "Hello, World!"
 
-greet()
+print(greet())
