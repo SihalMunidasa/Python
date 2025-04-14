@@ -8,5 +8,6 @@ while guess != answer:
         print("Lower")
     elif guess < answer:
         print("Higher")
+    guess = int(input())
 
 print("Correct")
